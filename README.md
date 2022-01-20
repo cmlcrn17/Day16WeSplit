@@ -4,7 +4,9 @@
 
 [Medium] (https://cmlcrn17.medium.com/100-days-of-swiftui-0-a372c26d926)
 
-** Proje Amacı **
+# Proje Amacı
 Bir yerde arkadaşlarınızlasınız ve hesabı ortak ödeyeceksiniz. 
 Ödenecek Tutar, kişi sayısı ve bırakacağınız bahşiş oranını metin alanlarına girerek uygulamanın hesaplama yapmasını sağlıyorsunuz. 
+
+
 
